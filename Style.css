@@ -1,0 +1,44 @@
+.d-flex {
+    display: flex;
+}
+
+.indent {
+    margin-left: 10px;
+}
+
+
+#aside-title {
+    margin-bottom: 5px;
+}
+
+#aside-text {
+    margin-top: 0;
+}
+
+body {
+    border-bottom: 100px solid rgb(46, 46, 169);
+    margin: 0;
+    font-family: 'Amatic SC',
+        cursive;
+}
+
+header {
+    background-color: rgb(46, 46, 169);
+    color: white;
+    text-align: center;
+    width: 100%;
+    border: 2px solid black;
+}
+
+main {
+    margin: 20px;
+}
+
+section {
+    border-top: 20px solid rgb(178, 221, 235);
+    margin: 10px 10px 10px 60px;
+}
+
+aside {
+    margin: 10px 60px 10px 60px;
+}
